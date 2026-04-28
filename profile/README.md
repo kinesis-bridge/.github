@@ -6,6 +6,7 @@
 - [x] Recover and publish source code
 - [x] Rotate the admin / pausing keys
 - [x] Deploy and activate new ISM Pause Contract
+- [x] Divide authorization between Admin, Relayer, Validators on Kadena,  create associated accounts.
 - [ ] Deploy and plug a Hook Pause contract
 - [ ] Disable IGP Hook on Ethereum
 - [x] Rewrite the Kadena IGP with KIA
@@ -14,10 +15,11 @@
 - [ ] Add a freeze feature for some tokens
 - [ ] Build a status GH Application
 - [x] Prepare a S3 storage
-- [x] Deploy a pair of temporaty validators
+- [x] Deploy a pair of temporary validators
 - [ ] Deploy the relayer
 - [x] Rotate the ISM MultiSig On Ethereum => To a temporay validator
 - [ ] Rotate the ISM MultiSig on Kadena => To a temporary validation
+- [ ] Prepare a Validator 
 - [ ] Deploy production grade validators
 - [ ] Rotate the ISM MultiSig On Ethereum => To final validators set
 - [ ] Rotate the ISM MultiSig on Kadena => To final validators set
