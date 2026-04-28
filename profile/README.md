@@ -11,8 +11,8 @@
 - [ ] Disable IGP Hook on Ethereum
 - [x] Rewrite the Kadena IGP with KIA
 - [x] Deploy the new IGP on Kadena
-- [ ] Do some changes on the Kadena Multi-Sig ISM (set-threshoold function)
-- [ ] Deploy yhe new Kadena Multi-Sig ISM 
+- [x] Do some changes on the Kadena Multi-Sig ISM (set-threshoold function)
+- [x] Deploy yhe new Kadena Multi-Sig ISM 
 - [ ] Add a throtlling feature
 - [ ] Add a freeze feature for some tokens
 - [ ] Build a status GH Application
@@ -22,7 +22,7 @@
 - [x] Deploy a pair of temporary validators
 - [ ] Deploy the relayer
 - [x] Rotate the ISM MultiSig On Ethereum => To a temporay validator
-- [ ] Rotate the ISM MultiSig on Kadena => To a temporary validation
+- [x] Rotate the ISM MultiSig on Kadena => To a temporary validation
 - [x] Prepare and deploy a Validator 
 - [ ] Deploy production grade validators
 - [ ] Rotate the ISM MultiSig On Ethereum => To final validators set
