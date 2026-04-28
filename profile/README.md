@@ -8,7 +8,7 @@
 - [x] Deploy and activate new ISM Pause Contract
 - [x] Divide authorization between Admin, Relayer, Validators on Kadena,  create associated accounts.
 - [x] Deploy and plug a Hook Pause contract
-- [x] Disable IGP Hook on Ethereum
+- [ ] Disable IGP Hook on Ethereum
 - [x] Rewrite the Kadena IGP with KIA
 - [x] Deploy the new IGP on Kadena
 - [ ] Add a throtlling feature
