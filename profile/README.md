@@ -11,6 +11,8 @@
 - [ ] Disable IGP Hook on Ethereum
 - [x] Rewrite the Kadena IGP with KIA
 - [x] Deploy the new IGP on Kadena
+- [ ] Do some changes on the Kadena Multi-Sig ISM (set-threshoold function)
+- [ ] Deploy yhe new Kadena Multi-Sig ISM 
 - [ ] Add a throtlling feature
 - [ ] Add a freeze feature for some tokens
 - [ ] Build a status GH Application
