@@ -29,4 +29,5 @@
 - [ ] Deploy the WebUI
 - [ ] Rotate the admin keys to MultSig on Kadena
 - [ ] Rotate the admin keys to MultiSig on Ethereum
+- [ ] Publish all source-code to Etherscan (WIP)
 
