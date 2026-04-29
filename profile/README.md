@@ -8,7 +8,7 @@
 - [x] Deploy and activate new ISM Pause Contract
 - [x] Divide authorization between Admin, Relayer, Validators on Kadena,  create associated accounts.
 - [x] Deploy and plug a Hook Pause contract
-- [ ] Disable IGP Hook on Ethereum
+- [x] Disable IGP Hook on Ethereum
 - [x] Rewrite the Kadena IGP with KIA
 - [x] Deploy the new IGP on Kadena
 - [x] Do some changes on the Kadena Multi-Sig ISM (set-threshoold function)
@@ -31,5 +31,5 @@
 - [ ] Deploy the WebUI
 - [ ] Rotate the admin keys to MultSig on Kadena
 - [ ] Rotate the admin keys to MultiSig on Ethereum
-- [ ] Publish all source-code to Etherscan (WIP)
+- [x] Publish all source-code to Etherscan
 
