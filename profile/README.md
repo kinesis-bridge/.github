@@ -44,7 +44,7 @@ https://github.com/kinesis-bridge/kadena-hyperlane-keys
 Common contracts.
 TBC
 
-|                       |    Kadena                                                     |    Ethereuù                                            |
+|                       |    Kadena                                                     |    Ethereum                                            |
 |-----------------------|---------------------------------------------------------------|--------------------------------------------------------|
 |  Mailbox              | n_e595727b657fbbb3b8e362a05a7bb8d12865c1ff.mailbox            | 0x82A729A4c7B2aeBDdbFCCF533e7B75c61c45c23c             |
 |  Validator Announce   | n_e595727b657fbbb3b8e362a05a7bb8d12865c1ff.validator-announce | 0xe06ccfFc88f04C3d14355CBD05C85fc238F847Fb             |
