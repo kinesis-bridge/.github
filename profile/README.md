@@ -13,7 +13,7 @@
 - [x] Deploy the new IGP on Kadena
 - [x] Do some changes on the Kadena Multi-Sig ISM (set-threshoold function)
 - [x] Deploy yhe new Kadena Multi-Sig ISM
-- [ ] Fix Gas usage on DomainRouting ISM
+- [x] Fix Gas usage on DomainRouting ISM
 - [ ] Redeploy DomainRouting
 - [ ] Add a throtlling feature
 - [ ] Add a freeze feature for some tokens
