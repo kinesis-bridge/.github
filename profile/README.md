@@ -14,7 +14,8 @@
 - [x] Do some changes on the Kadena Multi-Sig ISM (set-threshoold function)
 - [x] Deploy yhe new Kadena Multi-Sig ISM
 - [x] Fix Gas usage on DomainRouting ISM
-- [ ] Redeploy DomainRouting
+- [x] Redeploy DomainRouting
+- [x] Add a chain translator feature
 - [ ] Add a throtlling feature
 - [ ] Add a freeze feature for some tokens
 - [ ] Build a status GH Application
