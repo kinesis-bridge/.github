@@ -53,6 +53,9 @@ TBC
 |  Multisig ISM         | n_e595727b657fbbb3b8e362a05a7bb8d12865c1ff.merkle-tree-ism    | 0x35Acc909526f6670c02d52552147Dc05b0dc2aC0 (Proxy)     |
 |    -                  |                                                               | 0x3904BCf13fcBa7C8d0849cf344d453Fc0F53cb02 (Impl)      |
 | Pausable ISM          |                                                               |  0xDeC953FDf8890AEDb5C549dF472A1231baBcE8AC            |
-| MultiSigISM           |                                                               | 0x30fE103D354B107635D511134f44fA81D194Fadc (Factory)   |
+| MultiSig ISM          |                                                               | 0x30fE103D354B107635D511134f44fA81D194Fadc (Factory)   |
 |    -                  |                                                               | 0x3904BCf13fcBa7C8d0849cf344d453Fc0F53cb02 (Impl)      |
 |    -                  |                                                               | 0xcE0963E5759B37750e6b0aF5DFce6384B73E1d01 (Proxy)     |
+| Aggregation ISM       |                                                               | 0xb3D7E5B97d4f47B7eD8503d5c2e5CcC7CCB07591 (Factory)   |
+|    -                  |                                                               | 0x2D56168d3110F378b9BC598683423210c1A957BC (Impl)      |
+|    -                  |                                                               | 0x82ee09ac5616fd7d53bec4daf99f1c4f1b104df4 (Proxy)     |
