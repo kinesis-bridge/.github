@@ -58,4 +58,4 @@ TBC
 |    -                  |                                                               | 0xcE0963E5759B37750e6b0aF5DFce6384B73E1d01 (Proxy)     |
 | Aggregation ISM       |                                                               | 0xb3D7E5B97d4f47B7eD8503d5c2e5CcC7CCB07591 (Factory)   |
 |    -                  |                                                               | 0x2D56168d3110F378b9BC598683423210c1A957BC (Impl)      |
-|    -                  |                                                               | 0x82ee09ac5616fd7d53bec4daf99f1c4f1b104df4 (Proxy)     |
+|    -                  |                                                               | 0x82EE09AC5616FD7d53bEC4dAf99f1c4f1B104dF4 (Proxy)     |
