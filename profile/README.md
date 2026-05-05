@@ -60,9 +60,9 @@ https://github.com/kinesis-bridge/kadena-hyperlane-keys
 |    -                  |                                                                   | ``0x82EE09AC5616FD7d53bEC4dAf99f1c4f1B104dF4`` (Proxy)   |
 
 
-#### Native Kadena Tokens (Collateral on Kadne side)
+#### Native Kadena Tokens (Collateral on Kadena side)
 
 |                       |    Kadena                                                         |    Ethereum                                              |
 |-----------------------|-------------------------------------------------------------------|----------------------------------------------------------|
 | KDA                   | ``n_e595727b657fbbb3b8e362a05a7bb8d12865c1ff.KDA``                | ``0x7786F1eb2eC198A04d8f5e3Fc36fAB14da370076`` (Proxy)   |
-|   -                   |                                                                   | ``0x0009C43128dC38bF92cfA5e628f69215fe98a705`` (Impl)    |
+|   -                   | ``c:TLKMz0rO15FnZARzjvdoT6FHMGWqc8NGI0V_p2KvjY4`` (Coll Account)  | ``0x0009C43128dC38bF92cfA5e628f69215fe98a705`` (Impl)    |
