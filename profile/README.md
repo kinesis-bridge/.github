@@ -19,17 +19,17 @@
 - [ ] Add a throtlling feature
 - [ ] Add a freeze feature for some tokens
 - [ ] Build a status GH Application
-- [ ] Redeploy Mailbox on Kadena
+- [x] Redeploy Mailbox on Kadena
 - [ ] Redeploy all tokens on Kadena
 - [x] Prepare a S3 storage
 - [x] Deploy a pair of temporary validators
-- [ ] Deploy the relayer
+- [x] Deploy the relayer
 - [x] Rotate the ISM MultiSig On Ethereum => To a temporay validator
 - [x] Rotate the ISM MultiSig on Kadena => To a temporary validation
 - [x] Prepare and deploy a Validator 
-- [ ] Deploy production grade validators
-- [ ] Rotate the ISM MultiSig On Ethereum => To final validators set
-- [ ] Rotate the ISM MultiSig on Kadena => To final validators set
+- [ ] Deploy production grade validators WIP
+- [ ] Rotate the ISM MultiSig On Ethereum => To final validators set  WIP
+- [ ] Rotate the ISM MultiSig on Kadena => To final validators set WIP
 - [ ] Disable the Backend on the WebUI
 - [ ] Deploy the WebUI
 - [ ] Rotate the admin keys to MultSig on Kadena
@@ -51,4 +51,8 @@ TBC
 |  Validator Announce   | n_e595727b657fbbb3b8e362a05a7bb8d12865c1ff.validator-announce | 0xe06ccfFc88f04C3d14355CBD05C85fc238F847Fb             |
 |  Merkle Tree Hook     | n_e595727b657fbbb3b8e362a05a7bb8d12865c1ff.merkle-tree-hook   | 0xbB7e89E1C475cB02769FfCD8845e5B0B3343ecb7             |
 |  Multisig ISM         | n_e595727b657fbbb3b8e362a05a7bb8d12865c1ff.merkle-tree-ism    | 0x35Acc909526f6670c02d52552147Dc05b0dc2aC0 (Proxy)     |
-|    -                  |                                                               | 0x3904BCf13fcBa7C8d0849cf344d453Fc0F53cb02 (Impl)      |           
+|    -                  |                                                               | 0x3904BCf13fcBa7C8d0849cf344d453Fc0F53cb02 (Impl)      |
+| Pausable ISM          |                                                               |  0xDeC953FDf8890AEDb5C549dF472A1231baBcE8AC            |
+| MultiSigISM           |                                                               | 0x30fE103D354B107635D511134f44fA81D194Fadc (Factory)   |
+|    -                  |                                                               | 0x3904BCf13fcBa7C8d0849cf344d453Fc0F53cb02 (Impl)      |
+|    -                  |                                                               | 0xcE0963E5759B37750e6b0aF5DFce6384B73E1d01 (Proxy)     |
