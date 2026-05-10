@@ -18,7 +18,7 @@
 - [x] Add a chain translator feature
 - [ ] Add a throtlling feature
 - [ ] Add a freeze feature for some tokens
-- [ ] Build a status GH Application
+- [x] Build a status GH Application
 - [x] Redeploy Mailbox on Kadena
 - [ ] Redeploy all tokens on Kadena
 - [x] Prepare a S3 storage
@@ -30,7 +30,7 @@
 - [ ] Deploy production grade validators WIP
 - [ ] Rotate the ISM MultiSig On Ethereum => To final validators set  WIP
 - [ ] Rotate the ISM MultiSig on Kadena => To final validators set WIP
-- [ ] Disable the Backend on the WebUI
+- [x] Disable the Backend on the WebUI
 - [ ] Deploy the WebUI
 - [ ] Rotate the admin keys to MultSig on Kadena
 - [ ] Rotate the admin keys to MultiSig on Ethereum
