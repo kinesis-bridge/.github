@@ -77,3 +77,4 @@ https://github.com/kinesis-bridge/kadena-hyperlane-keys
 |   -                   |                                                                   | ``0xb0d6EED90f8E497b867F557C44A49c8c81Fa0a5D`` (Impl)    |
 | ETH                   | ``n_e595727b657fbbb3b8e362a05a7bb8d12865c1ff.kb-ETH``             | ``0xbddB58bF21b12D70eED91b939Ae061572010B11d`` (Proxy)   |
 |   -                   |                                                                   | ``0x941232cAD238BC5b897561BFF8E2b16bfA3945BA`` (Impl)    |
+| WBTC                  | ``n_e595727b657fbbb3b8e362a05a7bb8d12865c1ff.kb-WBTC``            | ``0xDFdB8F3dEb5458BFA25cc97df41298A915a34BF3`` (Proxy)   |                       |   -                   |                                                                   | ``0xC5fA6A9cCccc14adb0576a37d96A9BEcF68cA0e3`` (Impl)    |                         
