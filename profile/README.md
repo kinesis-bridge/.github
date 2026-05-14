@@ -17,7 +17,7 @@
 - [x] Redeploy DomainRouting
 - [x] Add a chain translator feature
 - [ ] Add a throttling feature
-- [ ] Add a freeze feature for some tokens
+- [x] Add a freeze feature for some tokens
 - [x] Build a status GH Application
 - [x] Redeploy Mailbox on Kadena
 - [ ] Redeploy all tokens on Kadena
