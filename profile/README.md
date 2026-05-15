@@ -16,7 +16,7 @@
 - [x] Fix Gas usage on DomainRouting ISM
 - [x] Redeploy DomainRouting
 - [x] Add a chain translator feature
-- [ ] Add a throttling feature
+- [x] Add a throttling feature
 - [x] Add a freeze feature for some tokens
 - [x] Build a status GH Application
 - [x] Redeploy Mailbox on Kadena
