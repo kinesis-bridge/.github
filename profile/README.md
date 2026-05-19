@@ -20,7 +20,7 @@
 - [x] Add a freeze feature for some tokens
 - [x] Build a status GH Application
 - [x] Redeploy Mailbox on Kadena
-- [ ] Redeploy all tokens on Kadena
+- [x] Redeploy all tokens on Kadena
 - [x] Prepare a S3 storage
 - [x] Deploy a pair of temporary validators
 - [x] Deploy the relayer
