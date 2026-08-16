@@ -31,10 +31,11 @@
 - [ ] Rotate the ISM Multisig On Ethereum => To final validators set  WIP
 - [ ] Rotate the ISM Multisig on Kadena => To final validators set WIP
 - [x] Disable the Backend on the WebUI
-- [ ] Deploy the WebUI
+- [x] Deploy the WebUI
 - [ ] Rotate the admin keys to Multisig on Kadena
 - [ ] Rotate the admin keys to Multisig on Ethereum
 - [x] Publish all source-code to Etherscan
+- [ } Deploy automatic Gas transfer KDA -> ETH
 
 ## Current Keys
 https://github.com/kinesis-bridge/kadena-hyperlane-keys
