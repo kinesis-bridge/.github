@@ -35,11 +35,17 @@
 - [ ] Rotate the admin keys to Multisig on Kadena
 - [ ] Rotate the admin keys to Multisig on Ethereum
 - [x] Publish all source-code to Etherscan
-- [ } Deploy automatic Gas transfer KDA -> ETH
+- [ ] Deploy automatic Gas transfer KDA -> ETH
 
 ## Current Keys
 https://github.com/kinesis-bridge/kadena-hyperlane-keys
 
+## Utility Repositories
+Manage and synchronize frontend status with contracts status
+https://github.com/kinesis-bridge/hyperlane-kadena-status
+
+Manage Gas relayer account
+https://github.com/kinesis-bridge/relayer-gas-manager
 
 ## Smart Contracts
 
