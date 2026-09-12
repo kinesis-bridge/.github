@@ -58,7 +58,7 @@ https://github.com/kinesis-bridge/relayer-gas-manager
 |  Merkle Tree Hook     | ``n_e595727b657fbbb3b8e362a05a7bb8d12865c1ff.merkle-tree-hook``   | ``0xbB7e89E1C475cB02769FfCD8845e5B0B3343ecb7``           |
 |  Pausable Hook        |                                                                   | ``0x9e55757C3EF8bcA9015F9d0A6287ccE79215cA07``           |
 |  Pausable ISM         |                                                                   | ``0xDeC953FDf8890AEDb5C549dF472A1231baBcE8AC``           |
-|  Multisig ISM         | `n_e595727b657fbbb3b8e362a05a7bb8d12865c1ff.merkle-tree-ism``     | ``0x30fE103D354B107635D511134f44fA81D194Fadc`` (Factory) |
+|  Multisig ISM         | ``n_e595727b657fbbb3b8e362a05a7bb8d12865c1ff.merkle-tree-ism``    | ``0x30fE103D354B107635D511134f44fA81D194Fadc`` (Factory) |
 |    -                  |                                                                   | ``0x3904BCf13fcBa7C8d0849cf344d453Fc0F53cb02`` (Impl)    |
 |    -                  |                                                                   | ``0xcE0963E5759B37750e6b0aF5DFce6384B73E1d01`` (Proxy)   |
 | Aggregation ISM       |                                                                   | ``0xb3D7E5B97d4f47B7eD8503d5c2e5CcC7CCB07591`` (Factory) |
