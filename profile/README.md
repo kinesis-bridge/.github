@@ -36,6 +36,7 @@
 - [ ] Rotate the admin keys to Multisig on Ethereum
 - [x] Publish all source-code to Etherscan
 - [x] Deploy automatic Gas transfer KDA -> ETH
+- [x] Health monitoring App 
 
 ## Current Keys
 https://github.com/kinesis-bridge/kadena-hyperlane-keys
