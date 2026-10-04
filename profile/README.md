@@ -52,19 +52,20 @@ https://github.com/kinesis-bridge/relayer-gas-manager
 
 #### Common contracts
 
-|                       |    Kadena                                                         |    Ethereum                                              |
-|-----------------------|-------------------------------------------------------------------|----------------------------------------------------------|
-|  Mailbox              | ``n_e595727b657fbbb3b8e362a05a7bb8d12865c1ff.mailbox``            | ``0x82A729A4c7B2aeBDdbFCCF533e7B75c61c45c23c``           |
-|  Validator Announce   | ``n_e595727b657fbbb3b8e362a05a7bb8d12865c1ff.validator-announce`` | ``0xe06ccfFc88f04C3d14355CBD05C85fc238F847Fb``           |
-|  Merkle Tree Hook     | ``n_e595727b657fbbb3b8e362a05a7bb8d12865c1ff.merkle-tree-hook``   | ``0xbB7e89E1C475cB02769FfCD8845e5B0B3343ecb7``           |
-|  Pausable Hook        |                                                                   | ``0x9e55757C3EF8bcA9015F9d0A6287ccE79215cA07``           |
-|  Pausable ISM         |                                                                   | ``0xDeC953FDf8890AEDb5C549dF472A1231baBcE8AC``           |
-|  Multisig ISM         | ``n_e595727b657fbbb3b8e362a05a7bb8d12865c1ff.merkle-tree-ism``    | ``0x30fE103D354B107635D511134f44fA81D194Fadc`` (Factory) |
-|    -                  |                                                                   | ``0x3904BCf13fcBa7C8d0849cf344d453Fc0F53cb02`` (Impl)    |
-|    -                  |                                                                   | ``0xcE0963E5759B37750e6b0aF5DFce6384B73E1d01`` (Proxy)   |
-| Aggregation ISM       |                                                                   | ``0xb3D7E5B97d4f47B7eD8503d5c2e5CcC7CCB07591`` (Factory) |
-|    -                  |                                                                   | ``0x2D56168d3110F378b9BC598683423210c1A957BC`` (Impl)    |
-|    -                  |                                                                   | ``0x82EE09AC5616FD7d53bEC4dAf99f1c4f1B104dF4`` (Proxy)   |
+|                       |    Kadena                                                         |    Ethereum                                                                                                               | Type      |
+|-----------------------|-------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|-----------|
+|  Mailbox              | ``n_e595727b657fbbb3b8e362a05a7bb8d12865c1ff.mailbox``            | [``0x82A729A4c7B2aeBDdbFCCF533e7B75c61c45c23c``](https://etherscan.io/address/0x82A729A4c7B2aeBDdbFCCF533e7B75c61c45c23c) | Proxy     |
+|   ~                   |                                                                   | [``0x935Aa587FF3fA7c507C63E52FF814157eeEE6088``](https://etherscan.io/address/0x935Aa587FF3fA7c507C63E52FF814157eeEE6088) | Impl      |
+|  Validator Announce   | ``n_e595727b657fbbb3b8e362a05a7bb8d12865c1ff.validator-announce`` | [``0xe06ccfFc88f04C3d14355CBD05C85fc238F847Fb``](https://etherscan.io/address/0xe06ccfFc88f04C3d14355CBD05C85fc238F847Fb) |           |
+|  Merkle Tree Hook     | ``n_e595727b657fbbb3b8e362a05a7bb8d12865c1ff.merkle-tree-hook``   | [``0xbB7e89E1C475cB02769FfCD8845e5B0B3343ecb7``](https://etherscan.io/address/0xbB7e89E1C475cB02769FfCD8845e5B0B3343ecb7) |           |
+|  Pausable Hook        |                                                                   | [``0x9e55757C3EF8bcA9015F9d0A6287ccE79215cA07``](https://etherscan.io/address/0x9e55757C3EF8bcA9015F9d0A6287ccE79215cA07) |           |
+|  Pausable ISM         |                                                                   | [``0xDeC953FDf8890AEDb5C549dF472A1231baBcE8AC``](https://etherscan.io/address/0x9e55757C3EF8bcA9015F9d0A6287ccE79215cA07) |           |
+|  Multisig ISM         | ``n_e595727b657fbbb3b8e362a05a7bb8d12865c1ff.merkle-tree-ism``    | [``0x30fE103D354B107635D511134f44fA81D194Fadc``](https://etherscan.io/address/0x9e55757C3EF8bcA9015F9d0A6287ccE79215cA07) | Factory   |
+|    -                  |                                                                   | [``0x3904BCf13fcBa7C8d0849cf344d453Fc0F53cb02``](https://etherscan.io/address/0x3904BCf13fcBa7C8d0849cf344d453Fc0F53cb02) | Impl      |
+|    -                  |                                                                   | [``0xcE0963E5759B37750e6b0aF5DFce6384B73E1d01``](https://etherscan.io/address/0xcE0963E5759B37750e6b0aF5DFce6384B73E1d01) | Rev. Proxy|
+| Aggregation ISM       |                                                                   | [``0xb3D7E5B97d4f47B7eD8503d5c2e5CcC7CCB07591``](https://etherscan.io/address/0xb3D7E5B97d4f47B7eD8503d5c2e5CcC7CCB07591) | Factory   |
+|    -                  |                                                                   | [``0x2D56168d3110F378b9BC598683423210c1A957BC``](https://etherscan.io/address/0x2D56168d3110F378b9BC598683423210c1A957BC) | Impl      |
+|    -                  |                                                                   | [``0x82EE09AC5616FD7d53bEC4dAf99f1c4f1B104dF4``](https://etherscan.io/address/0x82EE09AC5616FD7d53bEC4dAf99f1c4f1B104dF4) | Rev. Proxy|
 
 ---
 
