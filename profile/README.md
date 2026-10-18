@@ -71,24 +71,23 @@ https://github.com/kinesis-bridge/relayer-gas-manager
 
 
 #### Native Kadena Tokens (Collateral on Kadena side)
-
-|                       |    Kadena                                                         |    Ethereum                                              |
-|-----------------------|-------------------------------------------------------------------|----------------------------------------------------------|
-| KDA                   | ``n_e595727b657fbbb3b8e362a05a7bb8d12865c1ff.KDA``                | ``0x7786F1eb2eC198A04d8f5e3Fc36fAB14da370076`` (Proxy)   |
-|   -                   | ``c:TLKMz0rO15FnZARzjvdoT6FHMGWqc8NGI0V_p2KvjY4`` (Coll Account)  | ``0x0009C43128dC38bF92cfA5e628f69215fe98a705`` (Impl)    |
+|                       |    Kadena                                                         |    Ethereum                                                                                                               | Type      |
+|-----------------------|-------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|-----------|
+| KDA                   | ``n_e595727b657fbbb3b8e362a05a7bb8d12865c1ff.KDA``                | [``0x7786F1eb2eC198A04d8f5e3Fc36fAB14da370076``](https://etherscan.io/address/0x7786F1eb2eC198A04d8f5e3Fc36fAB14da370076) | Proxy     |
+|   -                   | ``c:TLKMz0rO15FnZARzjvdoT6FHMGWqc8NGI0V_p2KvjY4`` (Coll Account)  | [``0x0009C43128dC38bF92cfA5e628f69215fe98a705``](https://etherscan.io/address/0x0009C43128dC38bF92cfA5e628f69215fe98a705) | Impl      |
 
 ---
 
 #### Ethereum Collateralized Tokens (Collateral on Ethereum side)
 
-|                       |    Kadena                                                         |    Ethereum                                              |
-|-----------------------|-------------------------------------------------------------------|----------------------------------------------------------|
-| USDC                  | ``n_e595727b657fbbb3b8e362a05a7bb8d12865c1ff.kb-USDC``            | ``0x81C2813aa88F66bca1e55838045Aaceb72FEbFc1`` (Proxy)   |
-|   -                   |                                                                   | ``0xb0d6EED90f8E497b867F557C44A49c8c81Fa0a5D`` (Impl)    |
-| ETH                   | ``n_e595727b657fbbb3b8e362a05a7bb8d12865c1ff.kb-ETH``             | ``0xbddB58bF21b12D70eED91b939Ae061572010B11d`` (Proxy)   |
-|   -                   |                                                                   | ``0x941232cAD238BC5b897561BFF8E2b16bfA3945BA`` (Impl)    |
-| WBTC                  | ``n_e595727b657fbbb3b8e362a05a7bb8d12865c1ff.kb-WBTC``            | ``0xDFdB8F3dEb5458BFA25cc97df41298A915a34BF3`` (Proxy)   |
-|   -                   |                                                                   | ``0xC5fA6A9cCccc14adb0576a37d96A9BEcF68cA0e3`` (Impl)    |
+|                       |    Kadena                                                         |    Ethereum                                                                                                               | Type      |
+|-----------------------|-------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|-----------|
+| USDC                  | ``n_e595727b657fbbb3b8e362a05a7bb8d12865c1ff.kb-USDC``            | [``0x81C2813aa88F66bca1e55838045Aaceb72FEbFc1``](https://etherscan.io/address/0x81C2813aa88F66bca1e55838045Aaceb72FEbFc1) | Proxy     |
+|   -                   |                                                                   | [``0xb0d6EED90f8E497b867F557C44A49c8c81Fa0a5D``](https://etherscan.io/address/0xb0d6EED90f8E497b867F557C44A49c8c81Fa0a5D) | Impl      |
+| ETH                   | ``n_e595727b657fbbb3b8e362a05a7bb8d12865c1ff.kb-ETH``             | [``0xbddB58bF21b12D70eED91b939Ae061572010B11d``](https://etherscan.io/address/0xbddB58bF21b12D70eED91b939Ae061572010B11d) | Proxy     |
+|   -                   |                                                                   | [``0x941232cAD238BC5b897561BFF8E2b16bfA3945BA``](https://etherscan.io/address/0x941232cAD238BC5b897561BFF8E2b16bfA3945BA) | Impl      |
+| WBTC                  | ``n_e595727b657fbbb3b8e362a05a7bb8d12865c1ff.kb-WBTC``            | [``0xDFdB8F3dEb5458BFA25cc97df41298A915a34BF3``](https://etherscan.io/address/0xDFdB8F3dEb5458BFA25cc97df41298A915a34BF3) | Proxy     |
+|   -                   |                                                                   | [``0xC5fA6A9cCccc14adb0576a37d96A9BEcF68cA0e3``](https://etherscan.io/address/0xC5fA6A9cCccc14adb0576a37d96A9BEcF68cA0e3) | Impl      |
 
 
 ---
